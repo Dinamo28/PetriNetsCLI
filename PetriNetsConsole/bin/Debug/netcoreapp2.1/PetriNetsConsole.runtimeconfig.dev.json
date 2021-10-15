@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ELG\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ELG\\.nuget\\packages"
+    ]
+  }
+}
