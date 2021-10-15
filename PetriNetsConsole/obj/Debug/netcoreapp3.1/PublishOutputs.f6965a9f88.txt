@@ -1,0 +1,5 @@
+D:\Users\ELG\Desktop\PetriNets\PetriNetsConsole.exe
+D:\Users\ELG\Desktop\PetriNets\PetriNetsConsole.dll
+D:\Users\ELG\Desktop\PetriNets\PetriNetsConsole.deps.json
+D:\Users\ELG\Desktop\PetriNets\PetriNetsConsole.runtimeconfig.json
+D:\Users\ELG\Desktop\PetriNets\PetriNetsConsole.pdb

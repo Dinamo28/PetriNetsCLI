@@ -1,0 +1,16 @@
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\bin\Debug\net5.0\PetriNetsConsole.exe
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\bin\Debug\net5.0\PetriNetsConsole.deps.json
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\bin\Debug\net5.0\PetriNetsConsole.runtimeconfig.json
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\bin\Debug\net5.0\PetriNetsConsole.runtimeconfig.dev.json
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\bin\Debug\net5.0\PetriNetsConsole.dll
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\bin\Debug\net5.0\ref\PetriNetsConsole.dll
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\bin\Debug\net5.0\PetriNetsConsole.pdb
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\obj\Debug\net5.0\PetriNetsConsole.csprojAssemblyReference.cache
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\obj\Debug\net5.0\PetriNetsConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\obj\Debug\net5.0\PetriNetsConsole.AssemblyInfoInputs.cache
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\obj\Debug\net5.0\PetriNetsConsole.AssemblyInfo.cs
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\obj\Debug\net5.0\PetriNetsConsole.csproj.CoreCompileInputs.cache
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\obj\Debug\net5.0\PetriNetsConsole.dll
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\obj\Debug\net5.0\ref\PetriNetsConsole.dll
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\obj\Debug\net5.0\PetriNetsConsole.pdb
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\obj\Debug\net5.0\PetriNetsConsole.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\bin\Debug\netcoreapp2.1\PetriNetsConsole.deps.json
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\bin\Debug\netcoreapp2.1\PetriNetsConsole.runtimeconfig.json
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\bin\Debug\netcoreapp2.1\PetriNetsConsole.runtimeconfig.dev.json
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\bin\Debug\netcoreapp2.1\PetriNetsConsole.dll
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\bin\Debug\netcoreapp2.1\PetriNetsConsole.pdb
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\obj\Debug\netcoreapp2.1\PetriNetsConsole.csprojAssemblyReference.cache
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\obj\Debug\netcoreapp2.1\PetriNetsConsole.AssemblyInfoInputs.cache
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\obj\Debug\netcoreapp2.1\PetriNetsConsole.AssemblyInfo.cs
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\obj\Debug\netcoreapp2.1\PetriNetsConsole.csproj.CoreCompileInputs.cache
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\obj\Debug\netcoreapp2.1\PetriNetsConsole.dll
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\obj\Debug\netcoreapp2.1\PetriNetsConsole.pdb
+D:\Users\ELG\source\repos\PetriNetsConsole\PetriNetsConsole\obj\Debug\netcoreapp2.1\PetriNetsConsole.genruntimeconfig.cache
